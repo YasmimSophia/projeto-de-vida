@@ -56,5 +56,5 @@ function atualizacronometro() {
 function iniciaCronometro() {
   setInterval(atualizacronometro, 1000);
 }
-
+}
 iniciaCronometro();
